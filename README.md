@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-IamAaerios
-==========
-=======
+
+
 How to install it:
 
 
@@ -28,4 +26,4 @@ Drag your recently downloaded CRX file to the new tab
 
 
 Accept
->>>>>>> IamAaerios
+

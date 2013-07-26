@@ -5,7 +5,7 @@ How to install it:
 
 
 
-Download 'IamAaerios.crx' by clicking 'IamAaerios.crx' and view raw (it will be downloaded to your downloads folder)
+Download 'IamAaerios.crx' by clicking 'IamAaerios.crx' then view raw (it will be downloaded to your downloads folder)
 
 
 

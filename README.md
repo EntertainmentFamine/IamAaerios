@@ -11,7 +11,7 @@ Download CRX file called 'IamAaerios.crx'
 
 
 
-Open a new tab
+Open a new tab and go to chrome://extensions/
 
 
 

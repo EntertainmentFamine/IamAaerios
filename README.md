@@ -5,7 +5,7 @@ How to install it:
 
 
 
-Download CRX file called 'IamAaerios.crx'
+right click'IamAaerios.crx'and select save as IamAaerios.crx to a destination of your choice
 
 
 
